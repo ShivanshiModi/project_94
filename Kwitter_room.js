@@ -40,7 +40,7 @@ getData();
 function redirect_to_room_name(name)
 {
       localStorage.setItem("room_name" , name);
-      window.location = "kwitter_page.html";
+      window.location = "Kwitter_page.html";
 }
 
 function logout()
